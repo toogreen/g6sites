@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css"></link>
+		<title> The Black Eyed Peas </title>
+	</head>
+
+	<body background="space.jpg">
+		<meta http-equiv="refresh" content="5;url=mainpage.html">
+		<a href="mainpage.html"><img src="Title.jpg" width="100%"alt="" align="middle" /></a><br><br>
+		<img src="blackeyedpeas1.jpg" width="512" height="384" alt="" style="margin-left: 400px; " /><br><Br><br>
+		<table border="3" align="center" style="border-color: white;">
+			<tr>
+				<td>
+					<h2>Welcome to my website!</h2>
+						<p> Make sure you open this website with Full mode to make sure all the images and texts go into their right position : )<br>
+							And please do NOT use Internet Explorer. Some videos will not be shown on Internet Explorer.<br><br>
+		 					The page will open in 5 seconds....
+						</p>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>

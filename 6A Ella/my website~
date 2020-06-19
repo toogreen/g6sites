@@ -1,0 +1,9 @@
+<html>
+<body>
+<div style="width:100px;">
+ <div bgcolor="green" align="left" style="border:100px solid black;background:blue;color:white;">Hello</div>
+ <div align="right" style="border:100px solid black;">World</div>
+ </div>
+ </div>
+</body>
+</html>

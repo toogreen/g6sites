@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="style.css" /link>
+		<div>
+			<p><h1>Empire State Building</h1></p>
+		</div>
+		<br>
+	</head>
+	<body>
+	<div>
+		<div id="picture">
+		   <img src="empirestatebuilding.jpg" width="150px" height="200px" id="picture" style="float: right;" border="2px solid black"/>
+		</div>
+		<div align="center" style="text-align: justify;">
+			<p>The Empire State Building is the symbol of New York that is visiting by 2 million people each year. When it was built in the early 1930s, the Empire State Building became the 8th world wonder and the tallest building in the world. The building was constructed in only 1 year and 35 days. The skyscraper towered over the neighborhood with its height of 381 meter. The Empire State Building had the throne of the tallest building in the world until 1972, when the World Trade Towers (destroyed in 911) dethroned the Empire State Building.</p>
+		</div>
+	</div>
+	</body>
+</html>

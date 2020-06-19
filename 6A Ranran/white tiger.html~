@@ -1,0 +1,46 @@
+<html>
+<div style="text-align: center"><head><h1>!Whitetiger!</h1></div>
+<link rel="stylesheet" type="text/css" href="style.css" />
+ 
+</head>
+
+<body>
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="90%">
+<tr>
+<td width="20%"><!-- LEFT COLUMN -->
+Currently, several hundred white tigers are in captivity worldwide,
+ with about one hundred being found in India. Nevertheless, their population 
+ is on the increase. 
+
+</td>
+<td width="60%" align="center">
+<!-- FIRST ROW WITH PICTURE OF DOG -->
+<img src="newwhitetiger-background.jpg" width="300" height="329">
+</td>
+<td><!-- RIGHT COLUMN -->
+The modern white tiger population includes both pure 
+ Bengals and hybrid Bengal–Siberians, however, it is unclear whether the 
+ recessive white gene came only from Bengals, or if it also originated from 
+ Siberian ancestors.
+</td>
+</tr>
+<br />
+
+<tr>
+<td> </td>
+<td>
+<br>
+
+<div style="border: 1px solid blue; text-align: center; ">
+			<a href="dogs.html"><button> dogs</button></a><br />
+			<a href="cats.html"><button> cats</button></a><br />
+			<a href="wolves.html"><button> wolves</button></a><br />
+			<a href="index.html"><button> index</button></a><br />
+		<div>
+</td>
+<td width="20%"> </td>
+</tr>
+</table>
+
+</body>
+</html>

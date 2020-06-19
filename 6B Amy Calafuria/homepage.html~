@@ -1,0 +1,90 @@
+<html>
+<body>
+
+<div style="border: 1px solid green;">
+<img border="0" src="sign.jpg" alt="sign" width="277" height="166" />
+</div>
+
+<div style="border: 1px solid blue;">
+<br>
+<audio controls="controls">
+  <source src="themesong.ogg" type="audio/ogg" />
+Your browser does not support the audio element.     
+</audio>
+</br>
+</div>
+
+<div style="border: 1px solid red;float:left;">
+<img border="0" src="band.jpg" alt="bandpic" width="370" height="318" />
+</div>
+
+<h1>>The Big Bang Theory</h1>
+
+<body style="background-color:lightblue;">
+
+<p style="font-family:samanwata;color:purple;">
+I loooove the Big Bang Theory!! Welcome to my website!</p>
+
+<br>
+<script type="text/javascript">
+function changebutton1()
+{
+if (cc==0) 
+  {
+  cc=1;
+  document.getElementById('button1').src="charactersbutton.jpg";
+myVideo.play();
+  }
+else
+  {
+  cc=0;
+  document.getElementById('button1').src="charactersbutton.jpg";
+ myVideo.pause();
+ }
+}
+
+function changebutton1()
+{
+if (cc==0) 
+  {
+  cc=1;
+  document.getElementById('button2').src="episodesbutton.jpg";
+myVideo.play();
+  }
+else
+  {
+  cc=0;
+  document.getElementById('button2').src="episodesbutton.jpg";
+ myVideo.pause();
+ }
+}
+
+function changebutton1()
+{
+if (cc==0) 
+  {
+  cc=1;
+  document.getElementById('button4').src="quotesbutton.jpg";
+myVideo.play();
+  }
+else
+  {
+  cc=0;
+  document.getElementById('button4').src="quotesbutton.jpg";
+ myVideo.pause();
+ }
+}
+</script>
+</br>
+
+<a href="link2.html"><img id="button2" onmouseover="" src="characterbutton.jpg"></a>
+<a href="link3.html"><img id="button3" onmouseover="" src="episodesbutton.jpg"></a>
+<a href="link4.html"><img id="button4" onmouseover="" src="quotesbutton.jpg"></a>
+
+</body>
+</html>
+
+
+
+
+

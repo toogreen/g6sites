@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Welcome to my page!</title>
+<h1>Welcome to Jessica's wonderland! Please click on the link on this page if you want to know more about me</h1>
+<body background="6C-Jessica-backround.gif" >
+</body>
+<center><img src="6C-Jessica-website-picture.jpg" width="25%" height="60%"/></center>
+</head>
+
+<a href="6C-Jessica-website%202.html">Jessica</a>
+<a href="6C-Jessica-webiste3.html">Friends~</a>
+</html>

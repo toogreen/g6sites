@@ -1,0 +1,26 @@
+<html>
+	  <head>
+		<title>My document</title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	  <title>ches</title>
+	 <body background="green-one.jpg">
+
+<p style="font-size: 15px; ">These site will tell you about me,myfamily and my favorite english celebrities. 
+Maybe you don't know what i meen by english celebrities ,it meen that i choose the celebrities for the people
+how sing english song.If you want to know if i have other favorite celebrities the answer is yes these
+are some of them.</p>
+		<div style="width:1321px;">
+ <div  align="left">HANA</div>
+ <div align="right" style="border:25px solid green;">YO!welcome to my website! This website will talk about me and my family.So i wish you enjoy it!</div>
+ </div>
+<div align="left"><a href="aboutme.html">Click here </a>to go to a page about me</div>
+ <div align="left"><a href="family.html">Click here</a> to go to a page about my family</div>
+<div align="left"><a href="celebrities.html"> Click here </a>to go to a page about my favorite celebrities</div>
+ </body>
+ <body>
+ <div style="width:250px;">
+ </div>
+ 
+ </div>
+</html>
+	

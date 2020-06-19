@@ -1,0 +1,49 @@
+<html>
+<body>
+<div style="width: 20%; float: left;">
+<img border="0" src="sign.jpg" alt="sign" width="300" height="145" />
+<audio controls="controls">
+  <source src="themesong.ogg" type="audio/ogg" />
+Your browser does not support the audio element.     
+</audio>
+</div>
+
+<div style="width: 60%; float: right; ">
+<font <strongsize="+15" color="#04E304"><b><font size="+13" color="#FFFFFF">The Big Bang Theory</font></b></font></strong>
+</div>
+<br>
+<body>
+
+<div style="width: 20%;">
+This show rocks! How could you not love this show?!
+</div>
+</br>
+<body style="background-color:blue;">
+
+<img src="band.jpg" alt="band" align="right" width="300" height="250" />
+<p>
+<a href="BBTquotes.html"><img id="button1" onclick="changebutton1()" border="0" src="quotesbutton.jpg" width="200" height="33" /></a>
+</p>
+<p>
+<a href="bigbangfamily.html"><img id="button2" onclick="changebutton2()" border="0" src="charactersbutton.jpg" width="200" height="33" /></a>
+</p>
+
+<p>
+<a href="bigbangtheory.html"><img id="button4" onclick="changebutton2()" border="0" src="bbtbutton.jpg" width="200" height="33" /></a>
+</p>
+
+  <p>Press the buttons to go to different pages! </p>
+</p>
+</p>
+
+<h2>THE BIG BANG THEORY CAST</h2>
+<img border="0" src="castpic.jpg" alt="bbtcast" width="304" height="228" />
+<img border="0" src="superheroes.jpg" alt="super" width="304" height="228" />
+<img border="0" src="castp.jpg" alt="cast!" width="304" height="228" />
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="style.css" /link>
+		<div align="center">
+		   <p><h1>Times Square</h1></p>
+		</div>
+		<br>
+	</head>
+	<body>
+	<div>
+		<div id="picture">
+		   <img src="timessquare.jpg" width="350" id="picture" style="float: left;"/>
+		</div>
+		<div align="center" style="text-align: center;">
+		   <p>Times Square is a major commercial intersection in Midtown Manhattan, New York City, United States, at the junction of Broadway and Seventh Avenue. It is iconified as "The Crossroads of the World" and the "The Great White Way". It is the brightly illuminated hub of the Broadway theater district, one of the world's busiest pedestrian intersections and a major center of the world's entertainment industry. According to the "Travel + Leisure" magazine's October 2011 survey, Times Square is the world's most visited tourist attraction, bringing in over 39 million visitors annually.</p> 
+		</div>
+	</div>
+	</body>
+</html>

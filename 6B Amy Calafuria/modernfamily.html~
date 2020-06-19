@@ -1,0 +1,17 @@
+<html>
+<body>
+<img border="0" src="painting.jpeg" alt="turkey" width="300" height="270" />
+<div>
+<audio controls="controls">
+  <source src="modernfamily.ogg" type="audio/ogg" />
+Your browser does not support the audio element.     
+</audio>
+</div>
+<body style="background-color:lightgreen;">
+<img border="0" src="kids.jpg" alt="kids" width="360" height="278" />
+</div>
+<div>
+<img border="0" src="season2.jpg" alt="" width="600" height="500" />
+</div>
+</body>
+</html>

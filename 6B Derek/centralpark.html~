@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="style.css" /link>
+		<div>
+			<p><h1>Central Park</h1></p>
+	   </div>
+	   <br>
+	</head>
+	<body>
+		<div id="picture">
+		   <img src="centralpark.jpg" width="300px" id="picture" style="float: left;" />
+		</div>
+		<div style="text-align: justify;">
+			<p>Truly, the Central Park is an oasis of green in a concrete and steel jungle. Central Park is so beautiful  and much larger than you think. There are so much to see and do in Central Park: an ice skating rink, zoo, play chess and checkers, rent a boat, etc. The park is so peaceful, joggers, walkers, and horse-drawn carriages seem to coexist quite well. The carousel will be closed in the winter, but some other "must sees" were all accessible - the Alice in Wonderland statue and the Strawberry Fields memorial.</p> 
+		</div>
+	</body>
+</html>

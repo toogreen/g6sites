@@ -1,0 +1,15 @@
+body {
+background-color: green;
+background-repeat: repeat;
+margin-left: 200px;
+margin-right: 100px;
+font-size: 24px;
+font-family: Arial; color: #0A5905;
+}
+
+h1 {font-family: Arial; color: black;
+font-size: 45px;}
+div {
+	font-family: Arial; color: #FFFFFF;
+	font-size: 120px;
+}

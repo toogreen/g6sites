@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>My website</title>cture
+<body background="picture17.jpg">  
+</head>
+
+<body>
+<a href="Index.html">Go to main page</a>
+<a href="webside page2.html">Go to page2</a>
+<a href="webside page3.html">Go to page3</a>
+<a href="webside page4.html">Go to page4</a>
+<a href="webside page5.html">Go to page5</a>
+<a href="webside page6.html">Go to page6</a>
+<a href="webside page7.html">Go to page7</a>
+<a href="webside page9.html">Go to page9</a>
+<a href="webside page10.html">Go to page10</a>
+<a href="webside page11.html">Go to page11</a>
+<br>
+>The Background Art</h1>
+<br><br>
+<img src="65.jpg" width="220" height="165" alt="" /><img src="66.jpg" width="220" height="165" alt="" />
+<br>If a background image is specified, this property specifies whether the image is repeated (tiled), and how. All tiling covers the content, padding and border areas of a box.
+<br>
+If the image has no intrinsic dimensions and has an intrinsic ratio the dimensions must be assumed to be the largest dimensions at that ratio such that neither dimension exceeds the dimensions of the rectangle that establishes the coordinate system for the 'background-position' property.
+<br> 
+<img src="67.jpg" width="220" height="165" alt="" /><img src="68.jpg" width="220" height="165" alt="" />
+<br>
+If a background image is specified, this property specifies whether the image is repeated (tiled), and how. All tiling covers the content, padding and border areas of a box.
+<br>
+<img src="69.jpg" width="220" height="165" alt="" /><img src="70.jpg" width="303" height="231" alt="" />
+<br>
+The tiling and positioning of the background-image on inline elements is undefined in this specification. A future level of CSS may define the tiling and positioning of the background-image on inline elements. 
+<br>
+<img src="73.jpg" width="225" height="225" alt="" /><img src="74.jpg" width="259" height="194" alt="" />

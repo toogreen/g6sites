@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="style.css" /link>
+	   <div>
+			<p><h1>Statue of Liberty</h1></p>
+	   </div>
+	   <br>
+	</head>
+	<body>
+	<div>
+		<div id="picture">
+		   <img src="statueofliberty.jpg" width="250" id="picture" style="float: left;"/>
+		</div>
+	   <div align="center" style="text-align: justify;">
+			<p>For the many people that go from Europe to New York by boat, the Statue of Liberty was the first image they saw of the USA. It was a gift from the French government for the 100th birthday of America's Independence. The Statue was designed by a French sculptor, Frederic - Auguste Barthordi. The statue's face was modeled after his mother's. The crown of the statue has seven spikes, symbolizing the Seven Seas across which liberty should be spread. In her left hand she holds a tablet with the Declaration of Independence. In her right hand she holds a torch, symbolizing Enlightenment.</p>
+		</div>
+	</div>
+	</body>
+</html>

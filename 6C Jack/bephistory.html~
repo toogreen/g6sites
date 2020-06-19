@@ -1,0 +1,203 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css"></link>
+		<title>The Black Eyed Peas</title>	
+			<script type="text/javascript">
+				cc=0;
+
+					function changebutton1()
+						{
+							if (cc==0) 
+ 								{
+  									cc=1;
+  									document.getElementById('button1').src="button1 off.jpg";
+  								}
+							else
+  								{
+  									cc=0;
+  									document.getElementById('button1').src="button1 on.jpg";
+  								}
+						}
+					function changebutton2()
+						{
+							if (cc==0) 
+  								{
+  									cc=1;
+  									document.getElementById('button2').src="button2 off.jpg";
+  								}
+							else
+  								{
+  									cc=0;
+  									document.getElementById('button2').src="button2 on.jpg";
+  								}
+						}
+					function changebutton3()
+						{
+							if (cc==0) 
+  								{
+  									cc=1;
+ 									document.getElementById('button3').src="button3 off.jpg";
+  								}
+							else
+  								{
+  									cc=0;
+  										document.getElementById('button3').src="button3 on.jpg";
+  								}
+						}
+					function changebutton4()
+						{
+							if (cc==0) 
+  								{
+  									cc=1;
+  									document.getElementById('button4').src="button4 off.jpg";
+  								}
+							else
+  								{
+  									cc=0;
+  									document.getElementById('button4').src="button4 on.jpg";
+  								}
+						}
+					function changebutton5()
+						{
+							if (cc==0) 
+  								{
+  									cc=1;
+  									document.getElementById('button5').src="button5 off.jpg";
+  								}
+							else
+  								{
+  									cc=0;
+  									document.getElementById('button5').src="button5 on.jpg";
+  								}
+						}
+			</script>
+	</head>
+	
+	<body background="space.jpg">
+		<a href="mainpage.html"><img src="Title.jpg" width="100%"alt="" align="middle" /></a><br><br>
+		<img src="blackeyedpeas2.jpg" width="615" height="181" alt="" style="margin-right: 200px; " align="right" />
+		<div align="left" style="float: left;">
+			<a href="aboutbep.html"><img src="button1%20off.jpg" width="300px" height="30px" alt="" id="button1" onmouseover="changebutton1()" /></a><br><br>
+			<a href="bephistory.html"><img src="button2%20off.jpg" width="300px" height="30px" alt="" id="button2" onmouseover="changebutton2()" /></a><br><br>
+			<a href="bepachieve.html"><img src="button3%20off.jpg" width="300px" height="30px" alt="" id="button3" onmouseover="changebutton3()" /></a><br><br>
+			<a href="bepalbums.html"><img src="button4%20off.jpg" width="300px" height="30px" alt="" id="button4" onmouseover="changebutton4()" /></a><br><br>
+			<a href="about.html"><img src="button5%20off.jpg" width="100px" height="30px" alt="" id="button5" onmouseover="changebutton5()" /></a><br><br>
+		</div>
+
+		<div style="float: right; margin-left: 50px; margin-right: 50px"><br>
+			<p> The Black Eyed Peas- Boom Boom Pow (Clean)</p>
+			<audio autoplay="autoplay" controls="controls" style="float: right; ">
+  				<source src="Black Eyed Peas - Boom Boom Pow (Clean).mp3" type="audio/mpeg" />
+  				<source src="song.ogg" type="audio/ogg" />
+				Your browser does not support the audio element.
+			</audio><br><br><br>
+			<table cellpadding="0" cellspacing="0" border="0" style="border-color: white;">
+				<tr>
+					<td>
+						<img src="blackeyedpeas6.jpg" width="237" height="237" alt="" />
+						<img src="blackeyedpeas7.jpg" width="325" height="237" alt="" />
+						<img src="blackeyedpeas8.jpg" width="325" height="237" alt="" />
+						<img src="blackeyedpeas9.jpg" width="237" height="237" alt="" />			
+					</td>				
+				</tr>				
+				<tr>
+					<td>
+							<h2 align="center" style="text-align: center; ">Form of a band</h2>							
+							<p style="margin: 10px; ">
+								The Black Eyed started in 1988, when will.i.am and apl.de.ap met and began rapping and performing together around LA.<br>
+								They signed to Ruthless Records in 1992. With Dante Santiago, they called themselves Atban Klann.<br>
+								The member was Will 1X, apl.de.ap, Mookie Mook, DJ Motiv8, and Dante Santiago. Unfortunately, their debut album was never released because of Eazy-E(founder of Ruthless records)'s death.<br>
+								In 1995, Atban Klann reformed and changed their name to Black Eyed Pods, and then Black Eyed Peas. Dante Santiago was replaced with Taboo.<br>
+								Different from other groups, they chose to perform with a live band. After being signed to Interscope Records and releasing their debut, Behind the Front the group earned critical acclaim.
+
+							</p>
+					</td>
+				</tr>
+				<tr>
+				<td>
+				<img src="blackeyedpeas10.jpg" width="237" height="237" alt="" />
+				<img src="blackeyedpeas11.jpg" width="276" height="237" alt="" />
+				<img src="blackeyedpeas12.jpg" width="370" height="237" alt="" />
+				<img src="blackeyedpeas13.jpg" width="241" height="237" alt="" />
+				</td>								
+				</tr>
+				<tr>			
+					<td>
+						<h2 align="center" style="text-align: center; ">Elephunk</h2>	
+						<p>
+							Their third album Elephunk was the first album to feature the vocals of current member Fergie. Nicole Scherzinger was originally was to join the group, but was forced to decline because she was a member of Eden's Crush. Dante Santiago then introduced will.i.am to Fergie, who joined the band in 2002.<br> 
+							"Where Is the Love?" became The Black Eyed Peas' first major hit, peaking at No.8 on the U.S. Hot 100, and other countries, including seven weeks at No.1 in the United Kingdom. It became the biggest-selling single of 2003. In Australia, the song stayed at No.1 for six weeks.<br>
+							The next single "Shut Up"peaked at No.2 in the UK and topped the charts successfully.<br> 
+							The third single from the album "Hey Mama" hit the top 5 in Australia and the top 10 in the UK, Germany and other European countries and reached No.23 in the U.S<br>
+							Their fourth single from the album was "Let's Get It Started". It won a 2005 Grammy for Best Rap Performance by Group and also received two nominations for Record of the Year and Best Rap Song.<br>
+							In 2004, The Black Eyed Peas started Elephunk Tour, performing in many countries in Europe, Africa, and Asia.<br>					
+						</p>	
+					</td>				
+				</tr>
+				<tr>
+					<td>
+						<img src="blackeyedpeas14.jpg" width="243" height="237" alt="" />
+						<img src="blackeyedpeas15.jpg" width="243" height="237 alt="" />
+						<img src="blackeyedpeas16.jpg" width="238" height="237" alt="" />
+						<img src="blackeyedpeas17.jpg" width="400" height="237" alt="" />					
+					</td>				
+				</tr>
+				<tr>
+					<td>
+						<h2 align="center" style="text-align: center; ">Monkey Buisness</h2>
+						<p>
+							Their fourth album, Monkey Business, was released on June 7. The album's first single, "Don't Phunk with My Heart", reached third place on the U.S. Hot 100. At that time, it was their highest achievement. (this was later broken when "Boom Boom Pow" peaked at the top of the Billboard Hot 100) and they got another Grammy for Best Rap Performance by Group. "Don't Lie", the second single from the album reached 14th place. "My Humps", another song from the album achieved success in the U.S, aching number three on the U.S. Hot 100 and number one in Australia. The album Monkey Business peaked at number two on the U.S. Billboard 200 albums chart, selling over 295,000 copies in its first week. Their next single from the album was "Pump It", peaked at number 8 in Australia but 18 in America.<br>
+							In December 2005, they started the "European Tour", which toured many countries in Europe: Israel Ireland, the UK, Italy and Germany. After touring to Europe and Asia, they toured the U.S. again, and South America. <br>
+							In 2007, The Black Eyed Peas started the Black Blue & You World Tour, visiting more than 20 countries, including Macau, Sweden, Poland, Romania, Hungary, South Africa, South Korea, Malaysia, India, Indonesia, Israel, Singapore, China, Russia, Kazakhstan, Australia, Nigeria, Mexico, Thailand, Venezuela, Guatemala, Nicaragua, Costa Rica, Argentina, Philippines, El Salvador and Brazil. On December 31, 2006, The Black Eyed Peas performed at the Brazil for more than 1 million people came to see them.
+						</p>
+					</td>				
+				</tr>
+				<tr>
+					<td>
+						<img src="blackeyedpeas18.jpg" width="262" height="237" alt="" />
+						<img src="blackeyedpeas19.png" width="338" height="237" alt="" />
+						<img src="blackeyedpeas20.jpg" width="262" height="237" alt="" />
+						<img src="blackeyedpeas21.jpg" width="262" height="237" alt="" />					
+					</td>				
+				</tr>
+				<tr>
+					<td>
+						<h2 align="center" style="text-align: center; ">The E.N.D</h2>
+						<p>
+							The group's fifth album, The E.N.D. ("The Energy Never Dies"), was released on June 9, 2009. In its first week, the album sold 304,000 copies and peaked at number 1 on the Billboard 200. In the United States, the album became the ninth album to top the one million sales in 2009. The album has stayed for 38 weeks within the top 10 of the Billboard 200. The E.N.D. was the 7th best-selling album of 2009 in the U.S. It also peaked at number one in Australia, number two in New Zealand and three in the United Kingdom. Three additional singles, "Imma Be", "Alive", and "Meet Me Halfway", were released in the three weeks running up to the album's release.<br>
+							The first single "Boom Boom Pow" sold 465,000 downloads in its first week, which is the third-largest number of download sales in a single week and the largest single-week and debut-download totals by a group in the history of digital-download sales, reaching No. 1 on the U.S. The single also reached the top of Billboard Hot 100 and Pop 100. being the group's first U.S. No. 1, holding the spot for twelve consecutive weeks. It also reached number 1 in Australia, Canada, and the UK.<br>
+							After the release of The E.N.D., the Black Eyed Peas released "I Gotta Feeling", the official second single from the album. The single charted at number three and then went to number one on the UK Singles Chart. It debuted at number 2 on the Hot 100 behind "Boom Boom Pow" and later taking the number 1 spot.Also, The Black Eyed Peas joined a very elite group of artists who have held the No.1 and 2 Spot on the Hot 100. From April 18, 2009, when "Boom Boom Pow" reached No. 1, through October 10, 2009, the last week "I Gotta Feeling" was at No. 1, the group was on top of the chart for 26 weeks. On July 30, Billboard announced that the Black Eyed Peas set a record for the longest successive No. 1 chart run by a group in the Billboard Hot 100's history. "I Gotta Feeling" hit its fifth consecutive week at No. 1, following 12 weeks at the top by the Peas' "Boom Boom Pow.<br>
+							"Meet Me Halfway" was released as the third single from the album in September 2009. The single reached number one in the UK and Australia. It also peaked at seven on the U.S. Billboard Hot 100.
+							"Imma Be" was released as the fourth single in the U.S. on December 15, 2009, reaching number 1 on the Billboard Hot 100 for two weeks. "Imma Be" reached number 5 on the Canadian Hot 100. "Rock That Body" was then released as the fifth single, and has reached number 9 on the Billboard Hot 100.<br>
+							In September 2009, the Black eyed peas started The E.N.D. World Tour, with dates announced in Japan, Thailand, Malaysia, Australia and New Zealand. The group performed at the Grammys on January 31, 2010. They performed "Imma Be" and "I Gotta Feeling". Also they won 3 out of the 6 awards they were nominated for including Best Pop Vocal Album for The E.N.D., Best Pop VocalPerformance by a Group for "I Gotta Feeling" and Best Short Form Video for "Boom Boom Pow". On March 30, 2010,<br>
+						</p>
+					</td>			
+				</tr>
+				<tr>
+					<td>
+						<img src="blackeyedpeas22.jpg" width="281" height="237 alt="" />
+						<img src="blackeyedpeas23.jpg" width="281" height="237" alt="" />
+						<img src="blackeyedpeas24.jpg" width="281" height="237" alt="" />
+						<img src="blackeyedpeas25.jpg" width="281" height="237" alt="" />					
+					</td>				
+				</tr>
+				<tr>
+					<td>
+						<h2 align="center" style="text-align: center; ">The Beginning</h2>
+						<p>
+							Their sixth studio album: The Beginning was released on November 30, 2010. The album's first single is called "The Time (Dirty Bit)".<br>
+							"Just Can't Get Enough", the album's second single, was released in February 18, 2011. The music video was released in March 16, 2011 and it was filmed in Tokyo, one week before the earthquake and the tsunami. <Br>
+							The group's third single was "Don't Stop the Party" and it was released on May 10, 2011. On the same day, a music video for the song was released on iTunes. The group appeared on the 2011 Billboard Music Awards and won 1 of their 4 nominations, for "Top Group". They also performed "Just Can't Get Enough", "The Time (Dirty Bit)", "Boom Boom Pow", and "I Gotta Feeling".<br>
+							During their concert at on the July 6, 2011, The Black Eyed Peas announced they are taking an indefinite hiatus, as they did between 2005 and 2009. Will.i.am later confirmed the news on Twitter, adding that the break does not mean they will "stop creating". The group's last performance was The Beginning Tour On November 23, 2011.<br>
+						</p>				
+					</td>				
+				</tr>
+				<tr>
+					<td>
+						<h2>Souce: Wikipedia.com Simplified by Jack Kong</h2>
+					</td>				
+				</tr>
+			</table><br><br>
+		</div>
+	</body>
+</html>

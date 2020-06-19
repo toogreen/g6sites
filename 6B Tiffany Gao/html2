@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div style="text-allignicenter">
+			<button onclick="playPause()">Play/Pause</button>
+			<button onclick="makeBig()>Big</button>
+			<button onclick="makeSmall()">Small</button>
+			<button onclick="makeNormal()">Normal</button>
+			<br />
+			<video id="video1">

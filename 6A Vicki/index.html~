@@ -1,0 +1,23 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="stylecorrect.css" />
+</head>
+<body background="background3.jpg">
+
+
+<h1>Welcome to My Website.</h1>
+<br />
+<img src="emolovepicture.jpg" width="305" height="320" alt=""  align="right" />
+
+<a href="Baker King(Korea Drama).html"><button> Baker king(korean Drama)</button></a>
+<a href="Kaseifu no Mita(Japanese Drama).html"><button> Kaseifu no Mita(Japanese Drama)</button></a>
+<a href="Hi my SweetHeart(Taiwanese Drama).html"><button>Hi my SweetHeart(Taiwanese Drama)</button></a>
+<a href="Glee.html"><button>Glee(English Drama)</button></a>
+
+<br><br><br>
+
+This is my first website ever!!!! In my website, I will introduce you 4 different Dramas.
+I hope you will like it:)
+</body>
+
+</html>

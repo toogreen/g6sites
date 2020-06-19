@@ -1,0 +1,22 @@
+<html>
+	   <title>SD Gumdam</title>
+      <div style="text-align: center"><h1 style="color: #FFFF00; "><strong><em>SD Gumdam</em></strong></h1></div>
+      <div style="text-align: center"><h2 style="color: #FFFF00; ">Menu</h2></div>
+      <body background="2012-03-15-112513.jpg">
+      <p style="color: #FFFF00; ">
+      SD gumdam is a robot shooting game, it have many robot characters and many people characters too.It have many good item too.
+      </p>
+      <a href="index.html" name="Front Page"><button>Front Page</button></a>
+      <br><br>
+      <a href="Author.html" name="Author"><button>About Author</button></a>
+      <br><br>
+      <h3 style="color: #FFFFFF; "><em><a href="http://gd.9you.com/web_v3/index_top.html">http://gd.9you.com/web_v3/index_top.html</a></em></h3>
+      <br><br>
+      <a href="Lost%20Saga.html" name="Lost Saga"><button>About Lost Saga</button></a>
+      <h3 style="color: #FFFFFF; "><em><a href="http://www.lostsaga.com">http://www.lostsaga.com</a></em></h3>
+      <br><br>
+      <a href="Grand%20Chase.html" name="Grand Chase"><button>About Grand Chase</button></a>
+      <h3 style="color: #FFFFFF; "><em><a href="http://grandchase.hlevelupgames.ph/main/">http://grandchase.hlevelupgames.ph/main/</a></em></h3>
+      <br><br>
+      </body>
+</html>

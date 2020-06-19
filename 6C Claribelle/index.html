@@ -1,0 +1,154 @@
+<HTML>
+  <HEAD>
+<link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  
+<body background="background3.jpg">
+
+<h1> MANGA, JUGGLING AND PENBEAT ROCKS!!!!</h1>
+<h2>Hello! Welcome to my website!</h2>
+<h3>This website will tell ya'll about the stuff i wrote above :{D</h3>
+
+<h2>This is Manga!!!</h2>
+
+<img src="manga.jpg" width="369" height="284" alt="" />
+<img src="manga2.jpg" width="287" height="370" alt="" />
+<img src="manga3.jpg" width="359" height="294" alt="" />
+<h2><a href="http://www.mangatutorials.com/">Click here</a> and <a href="http://www.designzzz.com/how-to-draw-manga-useful-tips-and-tricks/">here</a> to have a manga tutorial!!!</h2>
+
+<h2>THIS is PENBEAT!!!</h2>
+<img src="penbeat.jpg" width="360" height="294" alt="" />
+<img src="penbeat3.jpg" width="404" height="266" alt="" />
+
+<h2>Umm.. maybe you should watch the penbeat videos..
+<a href="http://www.soku.com/search_video/q_penbeat">Click here</a> to watch them!!
+Type Shane Bang for a better rhythm!!!</h2>
+
+<h2>This is JUGGLING!!!</h2>
+<img src="juggling.jpg" width="360" height="294" alt="" />
+<img src="juggling2.jpg" width="328" height="321" alt="" />
+<h2><a href="http://www.funnyjuggler.com/juggling/">Click here</a> to learn how to juggle!!</h2>
+<h1>MY ART</h1>
+<img src="Dog%20head.jpg" width="353" height="249" alt="" />
+<img src="6c Claribelle-halloween greeting card.jpg" width="300" height="400"alt="" />
+<img src="background2.jpg" width="640" height="400" alt="" />
+<img src="background.jpg" width="640" height="400" alt="" />
+<img src="happygum.gif" width="640" height="400" alt="" />
+<img src="sadgum.gif" width="640" height="400" alt="" />
+<img src="drawing.jpg" width="700" height="500" alt="" />
+<img src="drawing2.jpg" width="600" height="600" alt="" />
+<h1>Fun Stuff</h1>
+
+<!DOCTYPE html> 
+<div style="text-align:center"> 
+
+<img id="button1" onclick="changebutton1()" border="0" src="button1-off.gif" width="200" height="100" />
+<img id="button2" onclick="changebutton2()" border="0" src="button2-off.gif" width="200" height="100" />
+<img id="button3" onclick="changebutton3()" border="0" src="button3-off.gif" width="200" height="100" />
+<img id="button4" onclick="changebutton4()" border="0" src="button4-off.gif" width="200" height="100" />
+
+
+
+  <br /> 
+  <video id="video1">
+    <source src="mov_bbb.mp4" type="video/mp4" />
+    <source src="mov_bbb.ogg" type="video/ogg" />
+    Your browser does not support HTML5 video.
+  </video>
+</div> 
+
+<script type="text/javascript">
+var myVideo=document.getElementById("video1");
+cc=0;
+function changebutton1()
+{
+if (cc==0) 
+  {
+  cc=1;
+  document.getElementById('button1').src="button1-on.gif";
+  myVideo.play();
+  }
+else
+  {
+  cc=0;
+  document.getElementById('button1').src="button1-off.gif";
+  myVideo.pause();
+  }
+}
+function changebutton2()
+{ 
+if (cc==0) 
+  {
+  cc=1;
+  document.getElementById('button2').src="button2-on.gif";
+  myVideo.height=(myVideo.videoHeight/4);
+  }
+else
+  {
+  cc=0;
+  document.getElementById('button2').src="button2-off.gif";
+  myVideo.height=(myVideo.videoHeight);
+  }
+}
+function changebutton3()
+{
+if (cc==0) 
+  {
+  cc=1;
+  document.getElementById('button3').src="button3-on.gif";
+  myVideo.height=(myVideo.videoHeight);
+  }
+else
+  {
+  cc=0;
+  document.getElementById('button3').src="button3-off.gif";
+  myVideo.height=(myVideo.videoHeight);
+  }
+}
+function changebutton4()
+{
+if (cc==0) 
+  {
+  cc=1;
+  document.getElementById('button4').src="button4-on.gif";
+   myVideo.height=(myVideo.videoHeight*3);
+  }
+else
+  {
+  cc=0;
+  document.getElementById('button4').src="button4-off.gif";
+  myVideo.height=(myVideo.videoHeight);
+  }
+}
+</script> 
+
+<p>Video courtesy of <a href="http://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.</p>
+</body> 
+</html>
+
+<script type="text/javascript">
+cc=0;
+function changeimage()
+{
+if (cc==0) 
+  {
+  cc=1;
+  document.getElementById('myimage').src="happygum.gif";
+  }
+else
+  {
+  cc=0;
+  document.getElementById('myimage').src="sadgum.gif";
+  }
+}
+</script>
+
+<img id="myimage" onclick="changeimage()" border="0" src="happygum.gif" width="600" height="400" />
+<h1>Click to make gumgum happy/sad!!</h1>
+<script type="text/javascript">
+
+
+
+<html> 
+</body>
+  

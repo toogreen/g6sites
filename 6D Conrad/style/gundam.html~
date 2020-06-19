@@ -1,0 +1,32 @@
+<html>
+<head>
+</head><link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+
+<body>
+</body> <h1>This is my wbsite</h1>
+
+<div align="left" style="text-align: right; width: 100%; height: 77%;"  bgcolor="blue" background:"blue;">
+That's my favourite Gundam
+
+
+<div style="text-align: right; width: 30%; height: 77%;"><img src="/home/student/Documents/6D Conrad/ICT/portfolio/images/gundam.jpg" width="100%" height="100%" alt="right" />
+</div>
+
+
+
+<a href="margin"<button>back to menu</button></a>
+
+
+</body>
+
+<body>
+<div style="text-align: right; width: 87%; height: 150%;align="right"><img src="style/exia.jpg" width="40%" height="100%" alt="" /><img src="style/gundam.jpg" width="45%" height="100%" alt=""align="right";/>
+</body>
+
+
+
+
+
+
+</html>

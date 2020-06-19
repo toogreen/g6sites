@@ -1,0 +1,21 @@
+body {
+  background-color: #CDE9FF;
+  font-family: Arial;
+  color: #FFFFF;
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-top: 50px;
+  }
+div {
+  border: 5px solid purple;
+  background-color: red;
+  font-family: Arial; 
+  color: black;
+  font-size: 50px;
+  }
+  
+  h1 {
+	color: white;
+	font-family: arial, helvetica, sans-serif;
+	}
+

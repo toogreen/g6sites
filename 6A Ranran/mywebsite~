@@ -1,0 +1,7 @@
+<html>
+<body>
+<div style="border: 1px solid red;float:left;">Hello</div>
+<div style="border: 1px solid green;">World</div>
+
+</body>
+</html>

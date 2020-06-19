@@ -1,0 +1,40 @@
+body {
+	background-color: #C996E7; 
+	background-image: url("background.jpg");
+		background-repeat: no-repeat;
+		background-attachment: scroll;
+	font-family: Purisa; color: #FFFFFF;
+	margin-top: 100px;
+	margin-left: 70px;
+	margin-right: 70px;
+	
+	}
+	
+div {
+	border-width: 5px; 
+	border-color: #8CFF1E;
+	background-color: #D93CF3;
+	font-family: Purisa; color: #FFFFFF;
+	font-size: 20px;
+	}
+h1 {
+	color: #27EAE7;
+}
+
+
+
+p {
+	color: #FFFFFF;
+}
+button{ 
+	color: #511AD8;
+
+	background-color: #3B92DF;
+}
+
+
+h4  {
+	color: #4CD81A;
+	font-size: 30px;
+
+	}

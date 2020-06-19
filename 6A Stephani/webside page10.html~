@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>My website</title>
+<body background="75.jpg">  
+</head>
+
+<body>
+<a href="Index.html" style="color: #FFFFFF; ">Go to main page</a>
+<a href="webside page2.html" style="color: #FFFFFF; ">Go to page2</a>
+<a href="webside page3.html" style="color: #FFFFFF; ">Go to page3</a>
+<a href="webside page4.html" style="color: #FFFFFF; ">Go to page4</a>
+<a href="webside page5.html" style="color: #FFFFFF; ">Go to page5</a>
+<a href="webside page6.html" style="color: #FFFFFF; ">Go to page6</a>
+<a href="webside page7.html" style="color: #FFFFFF; ">Go to page7</a>
+<a href="webside page8.html" style="color: #FFFFFF; ">Go to page8</a>
+<a href="webside page9.html" style="color: #FFFFFF; ">Go to page9</a>
+<a href="webside page11.html" style="color: #FFFFFF; ">Go to page11</a>
+<br>
+<h1><font size="100" color="#ADD8E6">The Background color</font></h1>
+<br><br>
+<font size="5" color="#FFFFFF">A film, also called a movie or motion picture,
+ is a series of still or moving images. It is produced by recording photographic
+ images with cameras, or by creating images using animation techniques or visual effects
+ . The process of filmmaking has developed into an art form and industry.</font>
+<br>
+<img src="79.jpg" width="259" height="194" alt="" /><img src="80.jpg" width="259" height="194" alt="" />
+<br>
+<font size="5" color="#FFFFFF">A background artist or sometimes called a background stylist or background painter is one who is involved in the process 
+of animation who establishes the color, style, and mood of a scene drawn by an animation layout artist. The methods used 
+can either be through traditional painting or by digital media such as Adobe Photoshop. Traditional methods involved painting 
+entire production scenes for a television program or film. Current methods may involve painting primarily background keys or the 
+establishing shot while production background artists paint the corresponding background paintings.</font>
+<br>
+<img src="81.jpg" width="259" height="194" alt="" /><img src="82.jpg" width="267" height="189" alt="" />
+<br>

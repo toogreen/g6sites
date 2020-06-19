@@ -1,0 +1,17 @@
+<HTML>
+
+<head>
+    <title>My document</title>
+         <link rel="stylesheet" type="text/css"href="style1.css"/>
+       
+</head>
+
+<body background="background2.jpg">
+  <h1 style="margin-left: 550px">Main Menu</h1>  
+  <a href="aboutme" ><button style="margin-top: 100px; margin-left: 500px">About Me</button></a>
+  <a href="myfamily.html" ><button style="margin-top: 100px">My Family</button></a>
+  <a href="aboutmyeschool" ><button style="margin-top: 100px">About My School</button></a>
+  <h2 style="margin-top: 100px; margin-left: 400px">Click the button to chose the process</h2>
+</body>
+
+</html>

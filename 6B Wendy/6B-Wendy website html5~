@@ -1,0 +1,19 @@
+<!----LEFT COLUMN----!>
+<div style"width:200px;border:1px solid red;float:left;">
+LEFT MENU
+<br/><br/>
+<button>BUTTON 1</button><br/>
+<button>BUTTON 2</button><br/>
+<button>BUTTON 3</button><br/>
+<br/><br/>
+</div>
+
+
+<!----MAIN COLUM (INFO ABOUT MY SELF & THE WEBSITE)----!>
+<div style="font-family:Copper black;width:60% border:1px solid green;float:left;'>
+MAIN CONTENT
+<br><br>
+hi,my name is Wendy . i'm from Hongkong . This is my first website! hi,my name is Wendy . i'm from Hongkong . This is my first website! hi,my name is Wendy . i'm from Hongkong . This is my first website! hi,my name is Wendy . i'm from Hongkong . This is my first website! 
+
+</div>
+

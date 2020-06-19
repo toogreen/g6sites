@@ -1,0 +1,24 @@
+<html>
+<head>
+
+<body style="background-color: #F6D59B; ">
+
+
+<div style="font-family:Copper black; width 60%; border: invisible; float:left;">
+Left Menu
+<br /><br />
+<button>Menu</button><br />
+<button>Picture</button><br />
+<button>About Me</button><br />
+<button>My Friends</button><br />
+</div>
+
+<div style="font-family:Copper black; width:60%; border:invisible;float:left;">
+Main Content
+<br><br>
+Hello World This is my first website, this web site is about me.
+</div>
+</body>
+<head>
+<html>
+ 

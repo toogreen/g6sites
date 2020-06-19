@@ -1,0 +1,5 @@
+document.write('<!-- Template ID = 16919 Template Name = Amazon Image Banner - Open in New Window -->\n');
+
+window.aanResponse={adId:'257091297',creativeId:'48514754'};
+
+document.write('\n<a href=\"http://ad.jp.doubleclick.net/click%3Bh%3Dv8/3c8b/3/0/%2a/j%3B257091297%3B4-0%3B0%3B21067563%3B3454-728/90%3B48514754/48513907/1%3Bu%3Da5cbda5b885843cbbd6c6bafbcc6fc48%3B%7Esscs%3D%3fhttp://ac.ebis.ne.jp/tr_set.php?argument=A35tnUzB&ai=sakura_a019\" target=\"_blank\"><img width=\"728\" height=\"90\" border=\"0\" src=\"http://s0.2mdn.net/3424110/0604sakuracard_kklb_amazon_a.gif\"></a>\n');

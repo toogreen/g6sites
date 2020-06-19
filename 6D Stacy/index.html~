@@ -1,0 +1,36 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+<body>
+<img src="indextitle.jpg" width="1062" height="167" alt="" />
+<div style="width:100%; float: up">
+</div>
+
+<div style="width:20%; float: left;">
+<p>Click on Me!</p>
+<br>
+<a href="aboutme.html"><button>About Me!:)</button></a>
+<br>
+<br>
+<button>%^My Hobbies#$</button>
+<br>
+<br>
+<a href="dogs.html"><button>^Dogs*</button></a>
+</div>
+
+
+<div style="width:80%; float: right; text-align: left; height: 105px">
+<h4>#INTRODUCTION#</h4>
+</div>
+<br><br>
+<p>Hello there! This is my first ever complted website! My first website's 
+theme is DOGS!!--My Favourite type of animal-- Well, click on buttons and 
+find more about me!!</p>
+
+
+
+
+</body>
+</html>
+

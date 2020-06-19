@@ -1,0 +1,19 @@
+
+
+
+body {
+ background-color: #BFBFBF;
+ font-family: Verdana;
+ }
+ 
+div {
+ border: 5px solid blue;
+ background-color: yellow;
+ font-family: Arial; color: red; 
+ font-size:  24px;
+ }
+ 
+h1 {font family: Times; color: red;}
+
+
+

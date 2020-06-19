@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+		<div align="center">
+		   <h1>Times Square</h1>
+		</div>
+		<br><br>
+	</head>
+	<body>
+	<frame src="buttons.html" frameborder="0" marginwidth="0" marginheight="0" /></frame>
+		<div>
+		   <img src="timessquare.jpg" width="" id="picture" style="float: left;"/>
+		</div>
+		<div align="center" style="text-align: center;">
+		   <p>Times Square is a major area in Manhattan, New York City, at the meeting point of Broadway and Seventh Avenue. The well-known city street area is probably most famous for its annual (every year) New Year's Eve ball drop. It is one of the famous sights of New York. You can look at it on Broadway and 41st Street.It's a major commercial street.</p>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,9 @@
+
+		<div>
+		<a href="index.html" name="index"><img id="index" border="0" src="mainmenu.png" width="240" height="40" /></a>
+		<a href="statueofliberty.html" name="sol"><img id="sol" border="0" src="statueofliberty.png" width="176.25" height="28.75" /></a>
+		<a href="empirestatebuilding.html" name="esb"><img id="esb" border="0" src="empirestatebuilding.png" width="220" height="28.75" /></a>
+		<a href="timessquare.html" name="ts"><img id="ts" border="0" src="timessquare.png" width="135" height="28.75" /></a>
+		<a href="centralpark.html" name="cp"><img id="cp" border="0" src="centralpark.png" width="132.5" height="28.75" /></a>
+		</div>
+

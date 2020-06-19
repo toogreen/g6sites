@@ -1,0 +1,107 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css"></link>
+		<title>The Black Eyed Peas</title>	
+		<script type="text/javascript">
+			cc=0;
+
+				function changebutton1()
+					{
+						if (cc==0) 
+  							{
+  								cc=1;
+  								document.getElementById('button1').src="button1 off.jpg";
+  							}
+						else
+  							{
+  								cc=0;
+  								document.getElementById('button1').src="button1 on.jpg";
+  							}
+					}	
+					
+				function changebutton2()
+					{
+						if (cc==0) 
+  							{
+  								cc=1;
+  								document.getElementById('button2').src="button2 off.jpg";
+  							}
+						else
+  							{
+ 								cc=0;
+  								document.getElementById('button2').src="button2 on.jpg";
+  							}
+					}
+					
+				function changebutton3()
+					{
+						if (cc==0) 
+  							{
+  								cc=1;
+  								document.getElementById('button3').src="button3 off.jpg";
+  							}
+						else
+ 							{
+  								cc=0;
+  								document.getElementById('button3').src="button3 on.jpg";
+  							}
+					}
+					
+				function changebutton4()
+					{
+						if (cc==0) 
+  							{
+  								cc=1;
+  								document.getElementById('button4').src="button4 off.jpg";
+  							}
+						else
+  							{
+  								cc=0;
+  								document.getElementById('button4').src="button4 on.jpg";
+  						}
+					}
+					
+				function changebutton5()
+					{
+						if (cc==0) 
+  							{
+ 								cc=1;
+  								document.getElementById('button5').src="button5 off.jpg";
+  							}
+						else
+  							{
+  								cc=0;
+  								document.getElementById('button5').src="button5 on.jpg";
+  							}
+					}
+		</script>
+	</head>
+	
+	<body background="space.jpg">
+		<a href="mainpage.html"><img src="Title.jpg" width="100%"alt="" align="middle" /></a><br><br>
+		<img src="blackeyedpeas2.jpg" width="615" height="181" alt="" style="margin-right: 200px; " align="right" />
+		<div align="left" style="float: left;">
+			<a href="aboutbep.html"><img src="button1%20off.jpg" width="300px" height="30px" alt="" id="button1" onmouseover="changebutton1()" /></a><br><br>
+			<a href="bephistory.html"><img src="button2%20off.jpg" width="300px" height="30px" alt="" id="button2" onmouseover="changebutton2()" /></a><br><br>
+			<a href="bepachieve.html"><img src="button3%20off.jpg" width="300px" height="30px" alt="" id="button3" onmouseover="changebutton3()" /></a><br><br>
+			<a href="bepalbums.html"><img src="button4%20off.jpg" width="300px" height="30px" alt="" id="button4" onmouseover="changebutton4()" /></a><br><br>
+			<a href="about.html"><img src="button5%20off.jpg" width="100px" height="30px" alt="" id="button5" onmouseover="changebutton5()" /></a><br><br>
+		</div>
+
+		<div style="float:left; margin-left: 50px; margin-right: 50px"><br>
+			<embed src="http://player.youku.com/player.php/sid/XMzM0MjU4MDcy/v.swf" " style="margin-left: 200px; "quality="high" width="70%" height="50%" align="middle" allowScriptAccess="sameDomain" allowFullscreen="true" type="application/x-shockwave-flash"></embed><br><br><br>
+			<table cellpadding="0" cellspacing="0" border="3" style="border-color: white;">
+				<tr>
+					<td>
+						<p style="margin: 10px; ">
+							Do you want to know about one of the alternative hip hop group, the Black Eyed Peas? Then, come on!
+							Read from my site and you will know much about the Black Eyed Peas!
+							My site has a brief but easy sentences about their musics, history, achievements and more!
+							This video is the MV of latest song "Just Can't get Enough" Please enjoy!
+						</p>
+					</td>
+				</tr>
+			</table><br><br>
+		</div>
+		
+</html>

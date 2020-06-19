@@ -1,0 +1,17 @@
+div{
+	width: 900px;
+	text-align: center;
+	margin: 225px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	}
+body{
+	 background-color: black;
+
+	 }
+h1 {
+	color: white;
+	}
+p {
+  color: white;
+  }

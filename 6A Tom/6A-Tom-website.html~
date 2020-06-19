@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Hello,this is my frist page </title>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+
+</head>
+<body background="tanxianjia2.jpg">
+  <img src="LOL%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" width="770" height="267" alt="" />
+ 
+<a href="page1.html">Click here to the next page</a>
+
+
+
+</body>
+</html>

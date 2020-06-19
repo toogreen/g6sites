@@ -1,0 +1,5 @@
+document.write('<!-- Template ID = 16919 Template Name = Amazon Image Banner - Open in New Window -->\n');
+
+window.aanResponse={adId:'254859108',creativeId:'48274846'};
+
+document.write('\n<a href=\"http://ad.jp.doubleclick.net/click%3Bh%3Dv8/3c8b/3/0/%2a/n%3B254859108%3B0-0%3B0%3B21067563%3B2321-160/600%3B48274846/48284779/1%3Bu%3D94395f276fd84456a437317374779196%3B%7Esscs%3D%3fhttp://www.amazon.co.jp/gp/feature.html?ie=UTF8&docId=3077652976\" target=\"_blank\"><img width=\"160\" height=\"600\" border=\"0\" src=\"http://s0.2mdn.net/3295883/megatoku_160x600_C.jpg\"></a>\n');

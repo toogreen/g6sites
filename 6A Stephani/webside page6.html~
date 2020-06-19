@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>My website</title>
+<body background="68.jpg">  
+</head>
+
+<body>
+<a href="Index.html">Go to main page</a>
+<a href="webside page2.html">Go to page2</a>
+<a href="webside page3.html">Go to page3</a>
+<a href="webside page4.html">Go to page4</a>
+<a href="webside page5.html">Go to page5</a>
+<a href="webside page7.html">Go to page7</a>
+<a href="webside page8.html">Go to page8</a>
+<a href="webside page9.html">Go to page9</a>
+<a href="webside page10.html">Go to page10</a>
+<a href="webside page11.html">Go to page11</a>
+<br>
+<h1>The Background Art</h1>
+<br><br>
+<img src="51.jpg" width="150" height="113" alt="" /><img src="52.jpg" width="150" height="113" alt="" />
+<br>
+Patents disclose to society how an invention is practiced, in return for the right (during a limited term) to exclude others from manufacturing, 
+selling, offering for sale or using the patented invention without the patentee's permission. Patent offices deal with prior art searches in the 
+context of the patent granting procedure. To assess the validity of a patent application, patent offices explore the prior art that was 
+disclosed before the invention occurred (in the United States§) or before the filing date (in the rest of the world).
+<br>
+<img src="53.jpg" width="150" height="113" alt="" /><img src="54.jpg" width="220" height="165" alt="" />
+<br>
+Authors may specify the background of an element (i.e., its rendering surface) as either a color or an image. In terms of the box model, 
+"background" refers to the background of the content, padding and border areas. Border colors and styles are set with the border properties. 
+Margins are always transparent. 
+<br>
+Background properties are not inherited, but the parent box's background will shine through by default because of the initial 'transparent' 
+value on 'background-color'. 
+<br>
+<img src="55.jpg" width="220" height="146" alt="" /><img src="56.jpg" width="220" height="165" alt="" />
+<br>
+The background of the root element becomes the background of the canvas and covers the entire canvas, anchored (for 'background-position') at 
+the same point as it would be if it was painted only for the root element itself. The root element does not paint this background again.
+<br>
+<img src="57.jpg" width="180" height="120" alt="" /><img src="58.jpg" width="220" height="137" alt="" />

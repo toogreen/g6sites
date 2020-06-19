@@ -1,0 +1,6 @@
+body {
+	font-family: Arial;
+	color: fd0b11 ;
+}
+h1 {color:07fdef;}
+h2{color:yellow}

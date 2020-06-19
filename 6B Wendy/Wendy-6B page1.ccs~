@@ -1,0 +1,19 @@
+body{
+ background-color:#BFBFBF;
+ font-family: Verdana;
+ }
+ 
+ div{
+  border: 5x solid blue;
+  background_color:yellow;
+  font-family:Arial; color: #ADD8E6;
+  font-size:24px;
+  }
+  
+  h1{font-family: arial, helvetica,sans-serif;}
+  h2{font-family: times; color: red;}
+  h3{font-family: Verdana; color: green;}
+  h4{
+     font-size: green;
+     font-family:arial;
+}

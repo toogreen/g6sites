@@ -1,0 +1,28 @@
+<html>
+<head>
+<script type="text/javascript">
+cc=0;
+function changeimage()
+{
+if (cc==0) 
+  {
+  cc=1;
+  document.getElementById('myimage').src="HAND2~.jpg";
+  }
+else
+  {
+  cc=0;
+  document.getElementById('myimage').src="HAND~.jpg";
+  }
+}
+</script>
+</head>
+
+<body>
+
+<img id="myimage" onclick="changeimage()" border="0" src="This is a free typing test that tests your " width="100" height="180" />
+<p>Click to change the hand positions</p>
+
+</body>
+</html>
+

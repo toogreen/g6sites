@@ -1,0 +1,129 @@
+<!DOCTYPE html> 
+<html> 
+<body> 
+
+
+  <br /> 
+ 
+</div> 
+
+<script type="text/javascript"> 
+cc=0;
+function changebutton1()
+{ 
+if (cc==0) 
+  { 
+  cc=1
+  document.getElementById('button1').src="button1-on.png";
+  }
+else
+  {
+
+
+function makeSmall()
+{ 
+myVideo.height=(myVideo.videoHeight/2); 
+} 
+
+function makeNormal()
+{ 
+myVideo.height=(myVideo.videoHeight); 
+} 
+function playPause()
+{ 
+if (myVideo.paused) 
+  myVideo.play(); 
+else 
+  myVideo.pause(); 
+} 
+
+function makeBig()
+{ 
+myVideo.height=(myVideo.videoHeight*2); 
+} 
+
+function makeSmall()
+{ 
+myVideo.height=(myVideo.videoHeight/2); 
+} 
+
+function makeNormal()
+{ 
+myVideo.height=(myVideo.videoHeight); 
+} 
+function playPause()
+{ 
+if (myVideo.paused) 
+  myVideo.play(); 
+else 
+  myVideo.pause(); 
+} 
+
+function makeBig()
+{ 
+myVideo.height=(myVideo.videoHeight*2); 
+} 
+
+function makeSmall()
+{ 
+myVideo.height=(myVideo.videoHeight/2); 
+} 
+
+function makeNormal()
+{ 
+myVideo.height=(myVideo.videoHeight); 
+} 
+function playPause()
+{ 
+if (myVideo.paused) 
+  myVideo.play(); 
+else 
+  myVideo.pause(); 
+} 
+
+function makeBig()
+{ 
+myVideo.height=(myVideo.videoHeight*2); 
+} 
+
+function makeSmall()
+{ 
+myVideo.height=(myVideo.videoHeight/2); 
+} 
+
+function makeNormal()
+{ 
+myVideo.height=(myVideo.videoHeight); 
+} 
+function playPause()
+{ 
+if (myVideo.paused) 
+  myVideo.play(); 
+else 
+  myVideo.pause(); 
+} 
+
+function makeBig()
+{ 
+myVideo.height=(myVideo.videoHeight*2); 
+} 
+
+function makeSmall()
+{ 
+myVideo.height=(myVideo.videoHeight/2); 
+} 
+
+function makeNormal()
+{ 
+myVideo.height=(myVideo.videoHeight); 
+} 
+</script> 
+<div style="text-align:center"> 
+  <button onclick="button1">Play/Pause</button> 
+  <button onclick="makeBig()">1/4 of Size </button>
+  <button onclick="makeSmall()">Normal Size </button>
+  <button onclick="makeNormal()">Triple Size </button>
+</body>
+ 
+</html>
+

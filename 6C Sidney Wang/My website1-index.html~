@@ -1,0 +1,18 @@
+<html> 
+	<head>
+	<link rel="stylesheet" type="text/css" href="style.css" />   
+	</head> 
+
+	<body background="My website background-6C-Sidney Wang.gif" bgcolor="#FFFFFF" text="#1A1A1A">  
+
+	<h1>Welcome To My Website! This website is about me, Sidney Wang!</h1> 
+
+	<center><img src="2012-05-24-144732.jpg" width="50%" height="85%"/></center>
+	
+	<a href="My website2.html">About My Self!</a>
+	<a href="My website3.html">About My Friends!</a>
+	<a href="My website4.html">About My Logo!</a>         
+	
+	</body>
+	
+	</html>

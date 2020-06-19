@@ -1,0 +1,11 @@
+	<html>
+	  <head>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	    <TITLE>My Website</TITLE>
+	  </head>
+	  
+	  <body><div style="text-align: center"></div>
+		<h1>My first stylesheet</h1>
+	  </body>
+	</html>
+	

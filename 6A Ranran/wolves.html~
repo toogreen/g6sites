@@ -1,0 +1,59 @@
+<html>
+<div style="text-align: center"><head><h1>!Wolves!</h1></div>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+<table cellpadding="0" cellspacing="0" border="0" align="center" width="90%">
+<tr>
+<td width="20%"><!-- First column -->
+The gray wolf, grey wolf, or common wolf
+(Canis lupus) is the largest extant member
+of the dog family of mammals, the Canidae.
+Though once abundant over much of Eurasia,
+North Africa and North America, the gray 
+wolf inhabits a reduced portion of its 
+former range due to widespread destruction
+ of its habitat, human encroachment, and
+the resulting human-wolf encounters 
+that sparked broad extirpation.
+
+
+</td>
+<td width="60%" align="center">
+<!-- middle column ROW WITH PICTURE OF DOG -->
+<img src="wolves.jpg" width="300" height="329">
+</td>
+
+<td width="20%"><!-- Right column -->
+ Although
+the species still faces some threats, 
+it is relatively widespread with a stable
+population trend and has therefore been 
+assessed as Least Concern by IUCN since 2004.
+Today, wolves are protected in some areas,
+hunted for sport in others, or may be subject
+to population control or extermination as threats
+to livestock, people, and pets. They occur 
+primarily but not exclusively in wilderness 
+and remote areas.
+</td>
+
+
+</tr>
+
+<tr>
+<td>
+<br>
+
+<div style="border: 1px solid blue; text-align: center; ">
+			<a href="dogs.html"><button> dogs</button></a><br />
+			<a href="cats.html"><button> cats</button></a><br />
+			<a href="whitetigers.html"><button> whitetigers</button></a><br />
+			<a href="index.html"><button> index</button></a><br />
+		<div>
+</td>
+</tr>
+</table>
+</body>
+</html>

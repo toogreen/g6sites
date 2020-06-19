@@ -1,0 +1,23 @@
+body{	
+background-color: purple;
+font-family: Verdana; color: purple;
+margin-left: 60px;
+margin-top: 80px;
+margin-right: 10px;
+}
+
+h1 {
+	font: Verdana;
+   color: purple;
+}
+
+div{
+	border:5px solid purple
+	background-color: yellow;
+	font-family: Arial;color: #ADD8E6;
+	font-size: 24px;
+	position: float left;
+	}
+
+
+	

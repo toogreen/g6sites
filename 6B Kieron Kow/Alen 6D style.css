@@ -1,0 +1,20 @@
+body {
+		background-color: #FFCC66;
+		background-image: url("butterfly.gif");
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: right bottom;
+	}
+dir {
+	border: 5px soild purple;
+	backgrond-color:green;
+	font-family: Arial; color: #ADD8E6;
+	font-size:24px;
+	 } 
+	h1 {
+		color: #990000;
+		background-color: #FC9804;
+	}
+	
+	
+

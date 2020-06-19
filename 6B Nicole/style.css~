@@ -1,0 +1,24 @@
+body {
+	  background-color: #FF0000;
+	  font-family: Verdana
+	  margin-left: 240px;  
+	  margin-top: 80px;
+	  margin-right: 10px;
+	 
+	}
+	
+div {
+	border: 5px solid green;
+	background-color: green;
+	font-family: Arial; color: #ADD8E6;
+	font-size: 24px;
+	position: float left;
+	}
+	
+h1 {font-family: arial; color: blue;}
+h2 {font-family: Times; color: red;)}
+h3 {font-family: Verdana; color: green;}
+h4 {
+	font-size: green;
+	font-family: atil;
+}

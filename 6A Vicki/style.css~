@@ -1,0 +1,21 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css/>
+
+<title>My Wesite</title>
+</head>
+<body>
+In this website, I will introduce new dramas to you.
+</body>
+<div>
+</html>
+
+
+body{
+	background-colour: purple
+	font family: Verdana;
+	}
+	
+div {
+	border: 5px green
+	background-colour:yellow

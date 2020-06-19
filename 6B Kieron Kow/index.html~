@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+<title>Kieron Kow</title>
+</head>
+<!--MENU-->
+<div style="background-color: #FF6B00; border: 1px solid black; float: left; width: 10%; ">
+	Menu
+	<br /><br />
+	<a href="about.html"><button>About</button></a><br />
+	<a href="blog.html"><button>Blog</button></a><br />
+	<a href="life.html"><button>Life</button></a><br />
+	<a href="news.html"><button>News</button></a><br />
+	<a href="index.html"><button>Main</button></a><br />
+	</div>
+<!---->
+<div style="float: middle; font-family: copper black; font-size: 10; width: 80%; ">
+<br><br>
+<h1>Hi, My name is Kieron and this is about my life so far</h1>
+</div>
+<!--MAIN TEXT-->
+<div style= "float: middle; font-family; copper black; width: 80%; ">
+<br><br>
+<h2>Main Intro</h2>
+<h3>I am born in singapore, an island of the coast of Malaysia. I'm born in 2000/7/9. I currently live in Shanghai. </h3>
+</body>
+
+</html> 

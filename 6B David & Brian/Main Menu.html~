@@ -1,0 +1,10 @@
+<html>
+	   <title>Website About Games</title>
+      <div style="text-align: center"><h1><strong><em>Interesting Games</em></strong></h1></div>
+      <div style="text-align: center"><h2>Menu</h2></div>
+      <a href="Lost%20Saga.html" name="Lost Saga"><button>Lost Saga</button></a>
+      <br><br>
+      <a href="Grand%20Chase.html" name="Grand Chase"><button>Grand Chase</button></a>
+      <br><br>
+      <button>SD Gumdam</button>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css" /link>
+		<div>
+			<h1 style="color: black; ">Tour guide of New York City</h1>
+		</div>
+		<br><br>
+	</head>
+	<body background="backgroundimage.jpg" style="background-position: center top; background-repeat: no-repeat;">
+		<div>
+			<a href="statueofliberty.html" name="sol"><img id="sol" border="0" src="statueofliberty.png" width="176.25" height="28.75" /></a>
+			&nbsp;
+			&nbsp;
+			&nbsp;
+			<a href="empirestatebuilding.html" name="esb"><img id="esb" border="0" src="empirestatebuilding.png" width="220" height="28.75" /></a>
+			&nbsp;
+			&nbsp;
+			&nbsp;
+			<a href="timessquare.html" name="ts"><img id="ts" border="0" src="timessquare.png" width="135" height="28.75" /></a>
+			&nbsp;
+			&nbsp;
+			&nbsp;
+			<a href="centralpark.html" name="cp"><img id="cp" border="0" src="centralpark.png" width="132.5" height="28.75" /></a>
+		</div>
+		<br><br><br>
+		<div style="text-align: justify; ">
+			<p>New York is the most populous city in the United States and the center of the New York Metropolitan Area, one of the most populous metropolitan areas in the world. New York exerts a significant impact upon global commerce, finance, media, art, fashion, research, technology, education, and entertainment. Being the home of the United Nations Headquarters, New York is an important center for international diplomacy and has been described as the cultural capital of the world and New York City is composed of five boroughs.Each borough is coextensive with a respective county of New York State as shown below. Throughout the boroughs there are hundreds of distinct neighborhoods, many with a definable history and character to call their own. If the boroughs were each independent cities, four of the boroughs would be among the ten most populous cities in the United States.</p>
+		</div>
+	</body>
+</html>

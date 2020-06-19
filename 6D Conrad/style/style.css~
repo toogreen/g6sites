@@ -1,0 +1,17 @@
+body {
+ background-color: #BFBFBF;
+ font-family: Verdana;
+ background-color: green and yellow ;
+ background-repeat: repeat;
+ margin-left: 100px;
+ margin-right: 100px;
+ }
+ 
+div {
+ border: 5px solid blue;
+ background-color: yellow;
+ font-family: Arial; color:red ; 
+ font-size:  24px;
+ }
+ 
+h1 {font family: Times; color:blue;}

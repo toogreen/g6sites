@@ -1,0 +1,18 @@
+body {
+  background-color: #BFBFBF;
+  font-family: arial, helvetica;
+  color: white;
+  font-size: 26px 
+  }
+ 
+div {
+  border: 5px solid purple;
+  background-color: yellow;
+  font-family: Arial; color: #ADD8E6;
+  font-size: 26px;
+  }
+ 
+h1 {font-family: arial, helvetica; color: #89D2EA;}
+h2 {font-family: arial, helvetica; color: #643030;}
+h3 {font-family: arial, helvetica; color: #C0D0FA;}
+h4 {font-family: arial, helvetica; color: #C0D0FA;}

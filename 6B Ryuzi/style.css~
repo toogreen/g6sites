@@ -1,0 +1,17 @@
+body {
+ background-color:green;
+ font-family: Verdana; color: black;
+ margin-left: 240px;
+ margin-top: 80px;
+ margin-right: 100px;
+ }
+ 
+div {
+  border: 5px solid purple;
+  background-color: yellow;
+  font-family: Arial; color: #ADD8E6;
+  font-size: 24px;
+  position: float left;
+  }
+  
+h1 {font-family: Arial; color: yellow; }

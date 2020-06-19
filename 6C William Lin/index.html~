@@ -1,0 +1,40 @@
+ 	
+
+<html>
+
+<body>
+
+<head>
+
+<link rel="stylesheet" type="text/css" href="style.css"/>
+
+</head>
+
+
+
+
+
+<title>William's Website</title>
+
+<h1>Welcome to William's Website!</h1>
+
+<a>Welcome visiter to this website!This website is about recommended games and music from the creator himself William!</a>
+
+
+<a href="Page.html"><img src="MusicButton.bmp" width="300"  height="40" alt=""> </a>
+
+<a href="Page1.html"><img src="GamesButton.gif" width="300" height="40" alt=""> </a>
+
+
+
+
+
+
+
+</body>
+
+	
+
+</html>
+
+

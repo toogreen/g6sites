@@ -1,0 +1,19 @@
+body{	
+     backgruond-color: blue;
+     }
+
+h1 {font-family: Comic;
+       color: light purple}
+
+h2 {font-family: Comic;
+    color: blue
+    }
+
+<div>{
+      style="text-align: center"
+      border: 5px solid purple;
+      background-color: solid blue
+      font-family:}
+
+</body>
+</html>

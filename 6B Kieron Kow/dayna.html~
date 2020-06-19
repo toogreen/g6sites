@@ -1,0 +1,19 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+<title>Dayna, my Sister</title>
+</head>
+<body>
+<!--MENU-->
+<div style="background-color: #FF6B00; border: 1px solid black; float: left; width: 10%; ">
+	Menu
+	<br /><br />
+	<a href="about.html"><button>About</button></a><br />
+	<a href="blog.html"><button>Blog</button></a><br />
+	<a href="life.html" ><button>Life</button</a><br />
+	<a href="news.html"><button>News</button></a><br />
+	<a href="index.html"><button>Main</button></a><br />
+	</div>
+My sister is a brat, she is very annoying. She always have to repeat everything she says. For example, she says Kieron, can i play your computer. Kieron, can i play your computer. Kieron, can i play your computer. Kieron, can i play your computer. THEN, I would say, yes, you can. Then, Thank you thank you thank you thank you thank you thank you thank you. You are welcome.
+</body>
+</html>
